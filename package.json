@@ -1,0 +1,13 @@
+{
+  "name": "hyper-bartkozal-theme",
+  "version": "1.0.0",
+  "description": "Hyper theme",
+  "main": "index.js",
+  "repository": "bartkozal/hyper-bartkozal-theme.git",
+  "author": "bartkozal",
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ]
+}
