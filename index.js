@@ -26,4 +26,14 @@ exports.decorateConfig = (config) =>
       lightWhite: "#fff",
     },
     bell: false,
+    keymaps: {
+      "tab:new": "ctrl+t",
+      "window:new": "ctrl+shift+n",
+      "editor:undo": "ctrl+z",
+      "editor:redo": "ctrl+y",
+      "editor:copy": "ctrl+c",
+      "editor:paste": "ctrl+v",
+      "editor:selectAll": "ctrl+a",
+      "editor:break": "ctrl+d",
+    },
   });
